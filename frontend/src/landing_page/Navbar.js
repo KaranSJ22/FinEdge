@@ -16,6 +16,7 @@ function Navbar() {
                 <a className='nav-btn'>Pricing</a>
                 <a className='nav-btn'>Support</a>
                 <a className='nav-btn ham'><i class="fa-solid fa-bars"></i></a>
+                <a></a>
 
             </div>
         </nav>
